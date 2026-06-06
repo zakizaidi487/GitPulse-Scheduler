@@ -1,0 +1,8 @@
+{
+  "name": "GitPulse Scheduler",
+  "description": "Scan daily trending GitHub repositories, compile summaries with Gemini, and dispatch automated clean digests to your email inbox.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
